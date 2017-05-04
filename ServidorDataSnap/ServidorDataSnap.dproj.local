@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/10/29 00:29:49.000.925,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\FormUnit1.pas</Transaction>
+    <Transaction>2014/10/29 00:29:50.000.652,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2014/10/29 00:29:51.000.412,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\WebModuleUnit1.pas</Transaction>
+    <Transaction>2014/10/29 00:29:52.000.444,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\images\expand.png</Transaction>
+    <Transaction>2014/10/29 00:29:52.000.402,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\images\collapse.png</Transaction>
+    <Transaction>2014/10/29 00:29:52.000.274,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\js\CallbackFramework-min.js</Transaction>
+    <Transaction>2014/10/29 00:29:52.000.197,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\js\json2.js</Transaction>
+    <Transaction>2014/10/29 00:29:52.000.340,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\css\ServerFunctionInvoker.css</Transaction>
+    <Transaction>2014/10/29 00:29:52.000.384,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\templates\ServerFunctionInvoker.html</Transaction>
+    <Transaction>2014/10/29 00:29:52.000.328,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\css\main.css</Transaction>
+    <Transaction>2014/10/29 00:29:52.000.226,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\js\ServerFunctions.js</Transaction>
+    <Transaction>2014/10/29 00:29:52.000.249,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\js\json2-min.js</Transaction>
+    <Transaction>2014/10/29 00:29:52.000.372,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\templates\ReverseString.html</Transaction>
+    <Transaction>2014/10/29 00:29:52.000.239,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\js\base64-min.js</Transaction>
+    <Transaction>2014/10/29 00:29:52.000.301,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\js\ServerFunctionInvoker.js</Transaction>
+    <Transaction>2014/10/29 00:29:52.000.262,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\js\ServerFunctionExecutor-min.js</Transaction>
+    <Transaction>2014/10/29 00:29:52.000.150,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\js\base64.js</Transaction>
+    <Transaction>2014/10/29 00:29:52.000.212,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\js\CallbackFramework.js</Transaction>
+    <Transaction>2014/10/29 00:29:52.000.169,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\js\ServerFunctionExecutor.js</Transaction>
+    <Transaction>2014/10/29 00:29:52.000.287,=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\js\connection.js</Transaction>
+    <Transaction>2014/10/29 00:30:16.000.329,W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\FormUnit1.pas=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\UntMainServer.pas</Transaction>
+    <Transaction>2014/10/29 00:30:16.000.329,W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\FormUnit1.dfm=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\UntMainServer.dfm</Transaction>
+    <Transaction>2014/10/29 00:31:46.000.770,W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\ServerMethodsUnit1.dfm=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\UntServerMetodos.dfm</Transaction>
+    <Transaction>2014/10/29 00:31:46.000.770,W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\ServerMethodsUnit1.pas=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\UntServerMetodos.pas</Transaction>
+    <Transaction>2014/10/29 00:32:27.000.492,W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\WebModuleUnit1.pas=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\UntWebModulo.pas</Transaction>
+    <Transaction>2014/10/29 00:32:27.000.492,W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\WebModuleUnit1.dfm=W:\projects\tutoriais-tdevrocks\Curso-Completo\ServidorDataSnap\UntWebModulo.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/09/14 11:19:04.000.213,=C:\Users\adrianosantos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/09/14 11:20:19.000.789,M:\Dropbox\projects\tutoriais-tdevrocks\Curso-Completo\Parte I - Navegacao - Prototipacao\UntMain.fmx=C:\Users\adrianosantos\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2014/09/14 11:20:19.000.789,M:\Dropbox\projects\tutoriais-tdevrocks\Curso-Completo\Parte I - Navegacao - Prototipacao\UntMain.pas=C:\Users\adrianosantos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/09/14 11:21:33.000.616,M:\Dropbox\projects\tutoriais-tdevrocks\Curso-Completo\Parte I - Navegacao - Prototipacao\LocadoraDelphi.dproj=C:\Users\adrianosantos\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2014/09/14 12:52:14.000.701,=M:\Dropbox\projects\tutoriais-tdevrocks\Curso-Completo\Parte I - Navegacao - Prototipacao\Unit1.pas</Transaction>
+    <Transaction>2014/09/14 12:53:06.000.105,M:\Dropbox\projects\tutoriais-tdevrocks\Curso-Completo\Parte I - Navegacao - Prototipacao\UntTitulos.fmx=M:\Dropbox\projects\tutoriais-tdevrocks\Curso-Completo\Parte I - Navegacao - Prototipacao\Unit1.fmx</Transaction>
+    <Transaction>2014/09/14 12:53:06.000.105,M:\Dropbox\projects\tutoriais-tdevrocks\Curso-Completo\Parte I - Navegacao - Prototipacao\UntTitulos.pas=M:\Dropbox\projects\tutoriais-tdevrocks\Curso-Completo\Parte I - Navegacao - Prototipacao\Unit1.pas</Transaction>
+    <Transaction>2014/09/21 00:42:33.000.920,=M:\Dropbox\projects\tutoriais-tdevrocks\Curso-Completo\Parte II - Prototipacao - Cópia\Unit1.pas</Transaction>
+    <Transaction>2014/09/21 00:51:03.000.637,=M:\Dropbox\projects\tutoriais-tdevrocks\Curso-Completo\Parte II - Prototipacao - Cópia\Unit1.pas</Transaction>
+    <Transaction>2014/09/21 00:53:18.000.028,M:\Dropbox\projects\tutoriais-tdevrocks\Curso-Completo\Parte II - Prototipacao - Cópia\UntUsuarios.fmx=M:\Dropbox\projects\tutoriais-tdevrocks\Curso-Completo\Parte II - Prototipacao - Cópia\Unit1.fmx</Transaction>
+    <Transaction>2014/09/21 00:53:18.000.028,M:\Dropbox\projects\tutoriais-tdevrocks\Curso-Completo\Parte II - Prototipacao - Cópia\UntUsuarios.pas=M:\Dropbox\projects\tutoriais-tdevrocks\Curso-Completo\Parte II - Prototipacao - Cópia\Unit1.pas</Transaction>
+    <Transaction>2014/09/21 11:49:50.000.590,=X:\projects\tutoriais-tdevrocks\Curso-Completo\Parte II - Prototipacao\Unit1.pas</Transaction>
+    <Transaction>2014/09/21 11:50:28.000.263,X:\projects\tutoriais-tdevrocks\Curso-Completo\Parte II - Prototipacao\Unit1.pas=X:\projects\tutoriais-tdevrocks\Curso-Completo\Parte II - Prototipacao\UntLogin.pas</Transaction>
+    <Transaction>2014/09/21 11:50:28.000.263,X:\projects\tutoriais-tdevrocks\Curso-Completo\Parte II - Prototipacao\Unit1.fmx=X:\projects\tutoriais-tdevrocks\Curso-Completo\Parte II - Prototipacao\UntLogin.fmx</Transaction>
+    <Transaction>2014/09/21 12:41:22.000.321,=X:\projects\tutoriais-tdevrocks\Curso-Completo\Parte II - Prototipacao\Unit1.pas</Transaction>
+    <Transaction>2014/09/21 12:43:27.000.095,X:\projects\tutoriais-tdevrocks\Curso-Completo\Parte II - Prototipacao\Unit1.pas=X:\projects\tutoriais-tdevrocks\Curso-Completo\Parte II - Prototipacao\LIB\Login.pas</Transaction>
+    <Transaction>2014/09/29 22:03:53.000.863,=P:\tutoriais-tdevrocks\Curso-Completo\Parte III - SQLite\Unit1.pas</Transaction>
+    <Transaction>2014/09/29 22:05:02.000.594,P:\tutoriais-tdevrocks\Curso-Completo\Parte III - SQLite\UntDM.dfm=P:\tutoriais-tdevrocks\Curso-Completo\Parte III - SQLite\Unit1.dfm</Transaction>
+    <Transaction>2014/09/29 22:05:02.000.594,P:\tutoriais-tdevrocks\Curso-Completo\Parte III - SQLite\UntDM.pas=P:\tutoriais-tdevrocks\Curso-Completo\Parte III - SQLite\Unit1.pas</Transaction>
+    <Transaction>2014/10/19 17:00:43.000.025,=P:\tutoriais-tdevrocks\Curso-Completo\Parte V - Detail\Unit1.pas</Transaction>
+    <Transaction>2014/10/19 17:01:33.000.548,P:\tutoriais-tdevrocks\Curso-Completo\Parte V - Detail\Unit1.fmx=P:\tutoriais-tdevrocks\Curso-Completo\Parte V - Detail\UntPreferencias.fmx</Transaction>
+    <Transaction>2014/10/19 17:01:33.000.548,P:\tutoriais-tdevrocks\Curso-Completo\Parte V - Detail\Unit1.pas=P:\tutoriais-tdevrocks\Curso-Completo\Parte V - Detail\UntPreferencias.pas</Transaction>
+    <Transaction>2014/10/19 17:26:56.000.094,=P:\tutoriais-tdevrocks\Curso-Completo\Parte V - Detail\Unit1.pas</Transaction>
+    <Transaction>2014/10/19 17:27:48.000.175,P:\tutoriais-tdevrocks\Curso-Completo\Parte V - Detail\Unit1.pas=P:\tutoriais-tdevrocks\Curso-Completo\Parte V - Detail\LIB\ULib.pas</Transaction>
+    <Transaction>2014/10/28 23:52:26.000.945,=W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VI - DataSnap\ClientModuleUnit1.pas</Transaction>
+    <Transaction>2014/10/28 23:52:26.000.391,=W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VI - DataSnap\ClientClassesUnit1.pas</Transaction>
+    <Transaction>2014/10/28 23:53:38.000.142,W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VI - DataSnap\UntModuloCliente.dfm=W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VI - DataSnap\ClientModuleUnit1.dfm</Transaction>
+    <Transaction>2014/10/28 23:53:38.000.142,W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VI - DataSnap\UntModuloCliente.pas=W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VI - DataSnap\ClientModuleUnit1.pas</Transaction>
+    <Transaction>2014/10/28 23:53:52.000.453,W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VI - DataSnap\Proxy.pas=W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VI - DataSnap\ClientClassesUnit1.pas</Transaction>
+    <Transaction>2014/10/29 00:37:24.000.512,=W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VI - DataSnap\ClientClassesUnit1.pas</Transaction>
+    <Transaction>2014/10/29 00:37:24.000.642,=W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VI - DataSnap\ClientModuleUnit1.pas</Transaction>
+    <Transaction>2014/10/29 00:37:57.000.863,W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VI - DataSnap\UntModuloCliente.pas=W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VI - DataSnap\ClientModuleUnit1.pas</Transaction>
+    <Transaction>2014/10/29 00:37:57.000.863,W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VI - DataSnap\UntModuloCliente.dfm=W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VI - DataSnap\ClientModuleUnit1.dfm</Transaction>
+    <Transaction>2014/10/29 00:39:07.000.063,W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VI - DataSnap\Proxy.pas=W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VI - DataSnap\ClientClassesUnit1.pas</Transaction>
+    <Transaction>2014/12/03 16:24:45.000.705,=W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VIII - DML\Unit1.pas</Transaction>
+    <Transaction>2014/12/03 16:26:06.000.804,W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VIII - DML\Unit1.pas=W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VIII - DML\UntUsuariosClientes.pas</Transaction>
+    <Transaction>2014/12/03 16:26:06.000.804,W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VIII - DML\Unit1.fmx=W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VIII - DML\UntUsuariosClientes.fmx</Transaction>
+    <Transaction>2014/12/03 16:55:03.000.658,W:\projects\tutoriais-tdevrocks\Curso-Completo\Parte VIII - DML\UntUsuariosClientes.pas=</Transaction>
+  </Transactions>
+	<MobileDevice>0434191710-Android</MobileDevice>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>

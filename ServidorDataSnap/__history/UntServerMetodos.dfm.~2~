@@ -1,0 +1,20 @@
+object SrvServerMetodos: TSrvServerMetodos
+  OldCreateOrder = False
+  Height = 433
+  Width = 593
+  object FDConexao: TFDConnection
+    Params.Strings = (
+      'Database=C:\Database\LOCADORASERVER.FDB'
+      'User_Name=SYSDBA'
+      'Password=masterkey'
+      'Protocol=TCPIP'
+      'DriverID=FB')
+    Left = 80
+    Top = 24
+  end
+  object FDPhysFBDriverLink1: TFDPhysFBDriverLink
+    VendorLib = 'gds32.dll'
+    Left = 232
+    Top = 24
+  end
+end
