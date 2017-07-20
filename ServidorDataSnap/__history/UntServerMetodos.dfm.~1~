@@ -1,5 +1,0 @@
-object SrvServerMetodos: TSrvServerMetodos
-  OldCreateOrder = False
-  Height = 433
-  Width = 593
-end
